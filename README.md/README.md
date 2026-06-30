@@ -50,4 +50,4 @@ Ela basicamente pega o HEX e devolve informações como nome da cor, RGB, HSL e 
 1. Baixa ou clona o repositório:
 
 ```bash
-git clone https://github.com/seuusuario/subtom.git
+git clone https://github.com/DarkianeRocha/SUBTOM.git
